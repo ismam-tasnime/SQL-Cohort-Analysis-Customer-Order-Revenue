@@ -306,7 +306,7 @@ If customer count drops sharply after month 0, it means many customers are not r
 ⸻
 
 Part 3: Revenue Cohort Analysis
-![revenuecohort](images/revenuecohort.jpg)
+![revenue cohort](images/revenue%20cohort.jpg)
 Purpose of Revenue Cohort
 
 Revenue cohort analysis shows how much revenue each customer cohort generated from month 0 to month 12.
@@ -353,7 +353,7 @@ It also helps the business identify whether revenue is coming from initial purch
 ⸻
 
 Part 4: Retention Percentage Analysis
-![Retention Percentage](images/retention%20percentage.jpg)
+![retentionpercentage](images/retentionpercentage.jpg)
 Purpose of Retention Percentage
 
 Retention percentage shows what percentage of customers from each cohort returned in later months.
