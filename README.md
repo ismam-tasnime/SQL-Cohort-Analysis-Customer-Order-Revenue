@@ -130,7 +130,7 @@ In this project, CTEs were used to:
 * Calculate order, customer, revenue, retention, AOV, and ARPC metrics
 
 ⸻
-
+![ordercohort](images/ordercohort.jpg)
 Part 1: Order Cohort Analysis
 
 Purpose of Order Cohort
@@ -263,7 +263,7 @@ The order cohort helps identify which customer groups continued placing orders a
 ⸻
 
 Part 2: Customer Cohort Analysis
-
+![customercohort](images/customercohort.jpg)
 Purpose of Customer Cohort
 
 Customer cohort analysis shows how many unique customers from each cohort returned and purchased again in later months.
@@ -306,7 +306,7 @@ If customer count drops sharply after month 0, it means many customers are not r
 ⸻
 
 Part 3: Revenue Cohort Analysis
-
+![revenuecohort](images/revenuecohort.jpg)
 Purpose of Revenue Cohort
 
 Revenue cohort analysis shows how much revenue each customer cohort generated from month 0 to month 12.
@@ -353,7 +353,7 @@ It also helps the business identify whether revenue is coming from initial purch
 ⸻
 
 Part 4: Retention Percentage Analysis
-
+![Retention Percentage](images/retention%20percentage.jpg)
 Purpose of Retention Percentage
 
 Retention percentage shows what percentage of customers from each cohort returned in later months.
@@ -388,7 +388,7 @@ A low retention percentage means customers are not returning regularly.
 ⸻
 
 Part 5: AOV Analysis
-
+![aov](images/aov.jpg)
 What is AOV?
 
 AOV means Average Order Value.
@@ -429,7 +429,7 @@ If AOV is low, the business may need upselling, bundling, or product recommendat
 ⸻
 
 Part 6: ARPC Analysis
-
+![arpc](images/arpc.jpg)
 What is ARPC?
 
 ARPC means Average Revenue Per Customer.
